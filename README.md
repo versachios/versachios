@@ -21,8 +21,6 @@ versachios
 [andao@archlinux ~] $ cat about.txt
 ```
 
-> **#define Andao Champion**
-
 I'm a secondary student who enjoys turning problems into code, breaking things,
 fixing them, and occasionally wondering why the code worked in the first place.
 
