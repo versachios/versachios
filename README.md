@@ -1,24 +1,23 @@
-<div align="center">
-
 ```text
-                    /\                         versachios@github
-                   /  \                        -----------------
-                  /    \                       OS       Arch Linux
-                 /      \                      WM       Hyprland 0.56.2
-                /   ,,   \                     Shell    zsh
-               /   |  |   \                    Editor   VS Code
-              /_-''    ''-_\
-                                             Languages C++ · Python · TypeScript
-                                             Focus    Competitive Programming
-                                                      Web Development
+       /\             versachios@github
+      /  \            -----------------
+     /    \           OS        Arch Linux
+    /      \          WM        Hyprland 0.56.2
+   /   ,,   \         Shell     zsh
+  /   |  |   \        Editor    VS Code
+ /_-''    ''-_\       Languages C++ · Python · TypeScript
+                      Focus     Competitive Programming
+                                Web Development
 ```
-
-</div>
 
 ```console
 [andao@archlinux ~] $ whoami
-[versachios](https://andao.pages.dev/)
+versachios
+```
 
+🌐 [andao.pages.dev](https://andao.pages.dev/)
+
+```console
 [andao@archlinux ~] $ cat about.txt
 ```
 
