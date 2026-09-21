@@ -1,16 +1,94 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**versachios/versachios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+                    /\                         versachios@github
+                   /  \                        -----------------
+                  /    \                       OS       Arch Linux
+                 /      \                      WM       Hyprland 0.56.2
+                /   ,,   \                     Shell    zsh
+               /   |  |   \                    Editor   VS Code
+              /_-''    ''-_\
+                                             Languages C++ · Python · TypeScript
+                                             Focus    Competitive Programming
+                                                      Web Development
+```
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```console
+[andao@archlinux ~] $ whoami
+[versachios](https://andao.pages.dev/)
+
+[andao@archlinux ~] $ cat about.txt
+```
+
+> **#define Andao Champion**
+
+I'm a secondary student who enjoys turning problems into code, breaking things,
+fixing them, and occasionally wondering why the code worked in the first place.
+
+Currently focused on:
+
+* Competitive Programming
+* Algorithms & Data Structures
+* C++17
+* Web Development
+* Linux / Arch Linux / Hyprland
+* Building random things that probably didn't need to exist
+
+```console
+[andao@archlinux ~] $ ls ~/projects
+```
+
+```text
+HVTCoder/        AI-assisted competitive programming judge
+Algoverse/       Interactive 2.5D / 3D data structures visualizer
+Andao/           My personal website
+```
+
+```console
+[andao@archlinux ~] $ cat skills.txt
+```
+
+```text
+Languages
+  C++          ███████████████░░░
+  Python       ████████░░░░░░░░░░
+  TypeScript   ███████████░░░░░░░
+
+Algorithms
+  Dynamic Programming    [learning]
+  Graph Algorithms       [learning]
+  Data Structures        [learning]
+
+Tools
+  Arch Linux
+  Hyprland
+  Git / GitHub
+  VS Code
+  Neovim
+  Next.js
+  Tailwind CSS
+```
+
+```console
+[andao@archlinux ~] $ git status
+```
+
+```text
+On branch main
+
+nothing to commit, working tree clean.
+```
+
+<div align="center">
+
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                  "make it work → make it fast → make it clean"
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+</div>
