@@ -12,10 +12,8 @@
 
 ```console
 [andao@archlinux ~] $ whoami
-versachios
+[versachios](https://andao.pages.dev/)
 ```
-
-🌐 [andao.pages.dev](https://andao.pages.dev/)
 
 ```console
 [andao@archlinux ~] $ cat about.txt
