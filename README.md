@@ -12,8 +12,10 @@
 
 ```console
 [andao@archlinux ~] $ whoami
-[versachios](https://andao.pages.dev/)
+versachios
 ```
+
+🌐 [andao.pages.dev](https://andao.pages.dev/)
 
 ```console
 [andao@archlinux ~] $ cat about.txt
@@ -77,15 +79,3 @@ On branch main
 
 nothing to commit, working tree clean.
 ```
-
-<div align="center">
-
-```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-                  "make it work → make it fast → make it clean"
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-</div>
